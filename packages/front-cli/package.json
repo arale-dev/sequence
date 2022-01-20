@@ -1,0 +1,26 @@
+{
+  "name": "@sequance/front-cli",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "arale-dev <9801gksquf@gmail.com>",
+  "homepage": "https://github.com/arale-dev/sequence#readme",
+  "license": "ISC",
+  "main": "lib/front-cli.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arale-dev/sequence.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/arale-dev/sequence/issues"
+  }
+}
